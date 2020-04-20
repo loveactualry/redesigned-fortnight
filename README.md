@@ -1,2 +1,2 @@
 # redesigned-fortnight
-Hotel Reservation prdeict
+Hotel Reservation predict
